@@ -33,4 +33,6 @@
 [youtube]: https://www.youtube.com/channel/UCXsf3-cfCF3XaCC3lhBsv2g/videos
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RainboeStrykr&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainboeStrykr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
