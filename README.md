@@ -1,38 +1,29 @@
-### Hi there, I'm Abhiraj Bhowmick - aka [RainboeStrykr][website] 👋
+[![Abhiraj](https://cdn.discordapp.com/attachments/859781721107726386/880686598394617866/header.png)](https://rainboestrykr.repl.co)
+
+<a href="mailto:abhirajbhowmick27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
+<a href="https://www.twitter.com/rainboestrykr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=30></a>
+ <a href="https://freshthoughts.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=30></a>
+ <a href="https://dev.to/rainboestrykr"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white" height=30></a>
+
+### Hi there 👋
+
+- ⚡ Read my stories at [Medium](http://freshthoughts.medium.com)
+
+- 🔭 I’m currently working on web development
+
+- 🌱 I’m currently learning Javascript and Python
+
+- 💬 Ask me about web development
+
+- 📫 How to reach me: Twitter or Email
+
+- ⚡ Fun fact: I like to play the piano
+
+[![Nilanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainboestrykr&show_icons=true)](https://github.com/rainboestrykr)
+
+### 🏆 Github Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rainboestrykr&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## I'm a Student, Web Developer, and Coding Enthusiast!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to make more projects
-- 🥅 2021 Goals: Improve myself as a Web Developer
-- ⚡ Fun fact: I love to read books and play the piano.
-
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-
----
-
-
-
-[website]: https://replit.com/@RainboeStrykr
-[twitter]: https://twitter.com/rainboestrykr
-[youtube]: https://www.youtube.com/channel/UCXsf3-cfCF3XaCC3lhBsv2g/videos
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RainboeStrykr&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainboeStrykr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+🙏 for reading!
