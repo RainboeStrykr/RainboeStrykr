@@ -1,23 +1,33 @@
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+> If you are here, you are probably wondering who I am  
+
+- I am Abhiraj Bhowmick, a aspiring web developer and blogger.
 
 
-<a href="mailto:abhirajbhowmick27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
-<a href="https://www.twitter.com/rainboestrykr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=30></a>
- <a href="https://dev.to/rainboestrykr"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white" height=30></a>
+![](https://visitor-badge.laobi.icu/badge?page_id=salimcodes.salimcodes)
 
-### Hi there 👋
+[![Github](https://img.shields.io/github/followers/rainboestrykr?label=Follow&style=social)](https://github.com/rainboestrykr)
 
-- ⚡ Read my stories at [Blog](http://abhirajbhowmick.hashnode.dev)
+[![Salim's github stats](https://github-readme-stats.vercel.app/api?username=rainboestrykr)](https://github.com/rainboestrykr/github-readme-stats&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainboestrykr&theme=vue)
 
-- 🔭 I’m currently working on web development
+##
+- 🔭 I’m currently working on learning everyday.
+- 🌱 I’m currently learning IT Automation with Python taught by the Google team and Machine Learning Engineering for Production (MLOps) taught by Andrew Ng {both via coursera}.
+- 👯 I’m looking to collaborate on Data Science, Machine Learning and Deep Learning Open-Source Projects.
+- 🤔 I’m looking for help with any Data Science, Machine Learning and Deep Learning Projects.
+- 💬 Ask me about Artificial Intelligence and Technology in general.
+- 📫 How to reach me: 👇
+- 😄 Pronouns: He and His.
+- ⚡ Fun fact: I really hate writing bios.
 
-- 🌱 I’m currently learning Javascript and Python
+## ✉️ Find me on:
 
-- 💬 Ask me about web development
+[<img align="left" alt="Salim O." width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://salimopines.medium.com/)
+[<img align="left" alt="salimopines | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/salimopines)
+[<img align="left" alt="Salim Oyinlola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/salim-oyinlola/)
+[<img align="left" alt="Salim.Ingram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/salim.ingram)
 
-- 📫 How to reach me: Twitter or Email
-
-- ⚡ Fun fact: I like to play the piano
-
-[![Nilanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainboestrykr&show_icons=true)](https://github.com/rainboestrykr)
 
 
