@@ -19,9 +19,7 @@
 
 - ⚡ Fun fact **I also play the piano**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,6 +33,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rainboestrykr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rainboestrykr" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rainboestrykr&show_icons=true&locale=en&layout=compact" alt="rainboestrykr" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rainboestrykr&show_icons=true&locale=en&layout=compact" alt="rainboestrykr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rainboestrykr&show_icons=true&locale=en" alt="rainboestrykr" /></p>
