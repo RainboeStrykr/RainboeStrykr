@@ -1,33 +1,40 @@
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-> If you are here, you are probably wondering who I am  
+<h1 align="center">Hi 👋, I'm Abhiraj</h1>
+<h3 align="center">I make stuff on the web and write blogs about it</h3>
 
-- I am Abhiraj Bhowmick, a aspiring web developer and blogger.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rainboestrykr&label=Profile%20views&color=0e75b6&style=flat" alt="rainboestrykr" /> </p>
 
+- 🔭 I’m currently working on [Pixellate](https://github.com/RainboeStrykr/Pixellate)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=salimcodes.salimcodes)
+- 🌱 I’m currently learning **Python**
 
-[![Github](https://img.shields.io/github/followers/rainboestrykr?label=Follow&style=social)](https://github.com/rainboestrykr)
+- 👨‍💻 All of my projects are available at [https://github.com/RainboeStrykr?tab=repositories](https://github.com/RainboeStrykr?tab=repositories)
 
-[![Salim's github stats](https://github-readme-stats.vercel.app/api?username=rainboestrykr)](https://github.com/rainboestrykr/github-readme-stats&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainboestrykr&theme=vue)
+- 📝 I regularly write articles on [https://dev.to/abhirajb](https://dev.to/abhirajb)
 
-##
-- 🔭 I’m currently working on learning everyday.
-- 🌱 I’m currently learning IT Automation with Python taught by the Google team and Machine Learning Engineering for Production (MLOps) taught by Andrew Ng {both via coursera}.
-- 👯 I’m looking to collaborate on Data Science, Machine Learning and Deep Learning Open-Source Projects.
-- 🤔 I’m looking for help with any Data Science, Machine Learning and Deep Learning Projects.
-- 💬 Ask me about Artificial Intelligence and Technology in general.
-- 📫 How to reach me: 👇
-- 😄 Pronouns: He and His.
-- ⚡ Fun fact: I really hate writing bios.
+- 💬 Ask me about **web development**
 
-## ✉️ Find me on:
+- 📫 How to reach me **abhirajbhowmick27@gmail.com**
 
-[<img align="left" alt="Salim O." width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://salimopines.medium.com/)
-[<img align="left" alt="salimopines | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/salimopines)
-[<img align="left" alt="Salim Oyinlola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/salim-oyinlola/)
-[<img align="left" alt="Salim.Ingram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/salim.ingram)
+- ⚡ Fun fact **I also play the piano**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/abhirajb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abhirajb" height="30" width="40" /></a>
+<a href="https://twitter.com/rainboestrykr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rainboestrykr" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/rainboestrykr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rainboestrykr" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rainboestrykr&show_icons=true&locale=en&layout=compact" alt="rainboestrykr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rainboestrykr&show_icons=true&locale=en" alt="rainboestrykr" /></p>
