@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rainboestrykr&label=Profile%20views&color=0e75b6&style=flat" alt="rainboestrykr" /> </p>
 
-- 🔭 I’m currently working on [Pixellate](https://github.com/RainboeStrykr/Pixellate)
+- 🔭 I’m currently working on [Visualway](https://github.com/visualway)
 
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RainboeStrykr?tab=repositories](https://github.com/RainboeStrykr?tab=repositories)
 
-- 📝 I regularly write articles on [https://dev.to/abhirajb](https://dev.to/abhirajb)
+- 📝 I write articles on [https://dev.to/abhirajb](https://dev.to/abhirajb)
 
 - 💬 Ask me about **web development**
 
