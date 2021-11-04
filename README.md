@@ -1,8 +1,7 @@
 
-<h1 align="center">Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+![Welcome](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f44b&text=Welcome)]
 
-[![Hey, I'm Abhiraj](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f60e&text=Hey%252C%2520I%27m%2520Abhiraj)](https://abhiraj.glitch.me)
-<h3 align="center">I make stuff on the web and write blogs about it</h3>
+[![Hi, I am Abhiraj, I make stuff on the web and write blogs about it.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%20make%20stuff%20on%20the%20web%20and%20write%20blogs%20about%20it.&title=Hi%2C%20I%20am%20Abhiraj)](https://abhiraj.glitch.me)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rainboestrykr&label=Profile%20views&color=0e75b6&style=flat" alt="rainboestrykr" /> </p>
@@ -25,8 +24,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/abhirajb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abhirajb" height="30" width="40" /></a>
-<a href="https://twitter.com/rainboestrykr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rainboestrykr" height="30" width="40" /></a>
+<a href="https://dev.to/abhirajb" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+
+  [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rainboestrykr)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
