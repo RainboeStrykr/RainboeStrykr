@@ -1,5 +1,5 @@
 
-![Welcome](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f44b&text=Welcome)]
+![Welcome](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f44b&text=Welcome)
 
 [![Hi, I am Abhiraj, I make stuff on the web and write blogs about it.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%20make%20stuff%20on%20the%20web%20and%20write%20blogs%20about%20it.&title=Hi%2C%20I%20am%20Abhiraj)](https://abhiraj.glitch.me)
 
