@@ -1,7 +1,9 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-, I'm Abhiraj</h1>
+<h1 align="center">Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
+[![Hey, I'm Abhiraj](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f60e&text=Hey%252C%2520I%27m%2520Abhiraj)](https://abhiraj.glitch.me)
 <h3 align="center">I make stuff on the web and write blogs about it</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rainboestrykr&label=Profile%20views&color=0e75b6&style=flat" alt="rainboestrykr" /> </p>
 
