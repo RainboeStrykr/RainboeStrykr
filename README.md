@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RainboeStrykr?tab=repositories](https://github.com/RainboeStrykr?tab=repositories)
 
-- 📝 I write articles on [https://dev.to/abhirajb](https://dev.to/abhirajb)
+- 📝 I write articles on [here](https://abhiraj.mdx.one)
 
 - 💬 Ask me about **web development**
 
