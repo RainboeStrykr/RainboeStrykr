@@ -29,7 +29,7 @@
   [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rainboestrykr)
 </p>
 
-<a href="https://app.daily.dev/RainboeStrykr"><img src="https://github.com/rainboestrykr/rainboestrykr/blob/master/devcard.svg" width="400" alt="Abhiraj's Dev Card"/></a>
+<a href="https://app.daily.dev/RainboeStrykr"><img src="https://github.com/RainboeStrykr/RainboeStrykr/blob/main/devcard.svg" width="400" alt="Abhiraj's Dev Card"/></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
