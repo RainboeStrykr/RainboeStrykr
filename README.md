@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rainboestrykr&label=Profile%20views&color=0e75b6&style=flat" alt="rainboestrykr" /> </p>
 
-- 🔭 I’m currently working on [Visualway](https://github.com/visualway)
+- 🔭 I’m currently working on [Visualway](https://visualway.xyz)
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RainboeStrykr?tab=repositories](https://github.com/RainboeStrykr?tab=repositories)
+- 👨‍💻 All of my socials are available [here](https://ayo.so/abhiraj)
 
-- 📝 I write articles on [here](https://abhiraj.mdx.one)
+- 📝 I write articles on making web dev easy for everyone [here](https://abhiraj.co)
 
 - 💬 Ask me about **web development**
 
@@ -24,8 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/abhirajb" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-
+  
   [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rainboestrykr)
 </p>
 
