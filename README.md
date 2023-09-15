@@ -1,8 +1,5 @@
 
-![Welcome](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f44b&text=Welcome)
-
-[![Hi, I am Abhiraj, I make stuff on the web and write blogs about it.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%20make%20stuff%20on%20the%20web%20and%20write%20blogs%20about%20it.&title=Hi%2C%20I%20am%20Abhiraj)](https://abhiraj.glitch.me)
-
+![GitHub metrics](https://metrics.lecoq.io/rainboestrykr)  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rainboestrykr&label=Profile%20views&color=0e75b6&style=flat" alt="rainboestrykr" /> </p>
 
@@ -37,6 +34,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rainboestrykr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rainboestrykr" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rainboestrykr&show_icons=true&locale=en&layout=compact" alt="rainboestrykr" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainboestrykr)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rainboestrykr&show_icons=true&locale=en" alt="rainboestrykr" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rainboestrykr&show_icons=true&count_private=true)  
