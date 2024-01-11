@@ -1,5 +1,5 @@
 
-![Metrics](https://metrics.lecoq.io/rainboestrykr?template=classic&isocalendar=1&rss=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&rss=false&rss.source=https%3A%2F%2Fblog.abhiraj.co%2Frss.xml&rss.limit=5&config.timezone=Asia%2FCalcutta)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Abhiraj%20Bhowmick%20💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rainboestrykr&label=Profile%20views&color=0e75b6&style=flat" alt="rainboestrykr" /> </p>
 
