@@ -20,7 +20,7 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Follow%20me%20on%20twitter%20&text2=💖&width=800&height=400)](https://twitter.com/rainboestrykr)
   
-  [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rainboestrykr)
 </p>
 
 <a href="https://app.daily.dev/RainboeStrykr"><img src="https://github.com/RainboeStrykr/RainboeStrykr/blob/main/devcard.svg" width="400" alt="Abhiraj's Dev Card"/></a>
