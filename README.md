@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my socials are available [here](https://ayo.so/abhiraj)
+- 👨‍💻 All of my socials are available [here](https://the.abhiraj.co)
 
 - 📝 I write articles on making web dev easy for everyone [here](https://abhiraj.co)
 
