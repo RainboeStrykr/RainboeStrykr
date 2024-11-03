@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rainboestrykr&label=Profile%20views&color=0e75b6&style=flat" alt="rainboestrykr" /> </p>
 
-- 🔭 I’m currently working on [Visualway](https://visualway.xyz)
-
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my socials are available [here](https://the.abhiraj.co)
