@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rainboestrykr&label=Profile%20views&color=0e75b6&style=flat" alt="rainboestrykr" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my socials are available [here](https://the.abhiraj.co)
 
@@ -15,8 +15,6 @@
 
 - ⚡ Fun fact **I also play the piano**
 
-
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Follow%20me%20on%20twitter%20&text2=💖&width=800&height=400)](https://twitter.com/rainboestrykr)
   
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rainboestrykr)
 </p>
@@ -30,6 +28,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rainboestrykr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rainboestrykr" /></a></p><br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainboestrykr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainboestrykr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rainboestrykr&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rainboestrykr&show_icons=true&count_private=true&theme=transparent)  
