@@ -1,4 +1,3 @@
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Frainboestrykr9c46f.png?alt=media)
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Abhiraj%20Bhowmick%20💻&width=800&height=400)](https://the.abhiraj.co)
 
