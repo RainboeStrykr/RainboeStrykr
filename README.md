@@ -1,7 +1,7 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Abhiraj%20Bhowmick%20💻&width=800&height=400)](https://the.abhiraj.co)
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rainboestrykr)
+[![hackerrank](https://img.shields.io/badge/hackerrank-05C770?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abhirajbhowmick1)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rainboestrykr&label=Profile%20views&color=0e75b6&style=flat" alt="rainboestrykr" /> </p>
 
