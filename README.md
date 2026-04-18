@@ -19,13 +19,17 @@
 
 I'm a pre-final year **B.Tech CSE (Software Engineering)** student at **SRMIST, Chennai** — a full-time developer and part-time cinephile. I work at the intersection of **tech, product, and communication**, leading initiatives that bridge technical innovation with real-world impact.
 
-```
-📍 Chennai, Tamil Nadu     🎹 Pianist (sometimes)     🎬 Cinephile (always)
-```
-
-- 🖥️ &nbsp; Portfolio → [abhiraj.dev](http://abhiraj.dev)
-- 📝 &nbsp; Writing on web dev → [abhiraj.dev/blog](https://abhiraj.dev/blog)
+- 📍 &nbsp; Chennai, Tamil Nadu 
+- 🖥️ &nbsp; [Portfolio](http://abhiraj.dev)
+- 📝 &nbsp; [Check out my projects](https://abhiraj.dev/projects)
 - 🧠 &nbsp; Currently deep-diving into **AI/ML**
+- 🎹 &nbsp; I play the piano sometimes
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g8ucl9ieutes7jbp1johiu0co&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
 
 ---
 
