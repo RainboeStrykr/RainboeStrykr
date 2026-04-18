@@ -1,13 +1,15 @@
 <div align="center">
 
 [![Banner](https://svg-banners.vercel.app/api?type=rainbow&text1=Abhiraj%20Bhowmick%20💻&width=800&height=400)](https://abhiraj.dev)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/abhiraj7?theme=dark&font=Offside)](https://leetcode.com/u/abhiraj7/)
 
-<img src="https://komarev.com/ghpvc/?username=rainboestrykr&label=Profile%20views&color=22c55e&style=flat-square" alt="Profile Views" />
 <p align="center">
   <a href="https://www.hackerrank.com/profile/abhirajbhowmick1">
     <img src="https://img.shields.io/badge/HackerRank-05C770?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=rainboestrykr&label=Profile%20views&color=22c55e&style=flat-square" alt="Profile Views" />
 
 </div>
 
