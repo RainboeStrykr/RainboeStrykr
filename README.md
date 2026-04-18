@@ -39,7 +39,7 @@ I'm a pre-final year **B.Tech CSE (Software Engineering)** student at **SRMIST, 
 
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=cpp,c,js,java,python,ts,bash,swift,vscode,html,css,react,vite,next,angular,vue,tailwind,remix,express,nodejs,astro,postgres,mongodb,supabase,fastapi,firebase,vercel,figma,aws,googlecloud)>
+![My Skills](https://skillicons.dev/icons?i=cpp,c,js,java,python,ts,bash,swift,vscode,html,css,react,vite,next,angular,vue,tailwind,remix,express,nodejs,astro,postgres,mongodb,supabase,fastapi,firebase,vercel,figma,aws,googlecloud)
 
 ---
 
