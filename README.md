@@ -28,7 +28,7 @@ I'm a pre-final year **B.Tech CSE (Software Engineering)** student at **SRMIST, 
 - 🎹 &nbsp; I play the piano sometimes
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
+  <a href="https://www.last.fm/user/abhirajb">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g8ucl9ieutes7jbp1johiu0co&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
