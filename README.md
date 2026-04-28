@@ -4,7 +4,7 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/abhiraj7?theme=dark&font=Offside)](https://leetcode.com/u/abhiraj7/)
 
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/abhirajbhowmick1">
+  <a href="https://www.hackerrank.com/abhirajbhowmick1">
     <img src="https://img.shields.io/badge/HackerRank-05C770?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
